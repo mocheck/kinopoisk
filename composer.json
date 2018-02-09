@@ -1,5 +1,5 @@
 {
-    "name": "wielski/kinopoisk",
+    "name": "mochek/kinopoisk",
     "description": "Laravel wrapper for Kinopoisk API",
     "keywords": [
         "laravel",
