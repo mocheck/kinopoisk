@@ -24,7 +24,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Wielski\\Kinopoisk\\Provaiders\\KinopoiskServiceProvider"
+                "Wielski\\Kinopoisk\\Providers\\KinopoiskServiceProvider"
             ],
             "aliases": {
                 "Kinopoisk": "Wielski\\Kinopoisk\\Facades\\Kinopoisk"
